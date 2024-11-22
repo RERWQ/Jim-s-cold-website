@@ -1,0 +1,20 @@
+img{
+    display:block;
+    margin:0 auto ; 
+}
+h1{background-color: rgba(114, 114, 231, 0.998) ;
+text-align: center;
+border-radius: 60px ;
+border-style: ridge;
+}
+p{color:rgba(161, 40, 40, 0.785) ;
+font-size:xx-large ;
+font-style: unset;
+font-weight: lighter;}
+ol{color:rgba(161, 40, 40, 0.785) ;
+    font-size:xx-large ;
+    font-style: unset;
+    font-weight: lighter;}
+    ul{color:rgba(114, 114, 231, 0.998);
+        font-size:xx-large ;
+    }
